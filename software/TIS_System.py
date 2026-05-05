@@ -266,7 +266,7 @@ class BLEGUI(QWidget):
     def __init__(self):
         super().__init__()
         self.data_to_write = bytearray(10)
-        self.setWindowTitle("Wireless TIS System (by Ji-Hyoung Cha)")
+        self.setWindowTitle("Wireless TIS System")
         self.setGeometry(0, 0, 1500, 900)
         
         self.POLL_INTERVAL = DATA_POLL_INTERVAL
