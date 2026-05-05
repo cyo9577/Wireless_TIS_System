@@ -10,7 +10,7 @@
 #define Device 1
 
 #if Device == 1
-#define APP_DEVICE_NAME "TIS_JHCHA_1"
+#define APP_DEVICE_NAME "TIS_System"
 #endif
 
 #define GPIO_PIN0 5
