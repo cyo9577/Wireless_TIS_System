@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "nrfx_pwm.h": "c",
+        "parameters.h": "c",
+        "kernel.h": "c",
+        "compare": "c",
+        "ble_service.h": "c",
+        "parameter.h": "c",
+        "adc_pwm.h": "c",
+        "stdbool.h": "c",
+        "nrf_gpio.h": "c",
+        "byteorder.h": "c"
+    }
+}
